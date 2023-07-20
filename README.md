@@ -1,2 +1,1 @@
-# nextjs-blog
-Practice only guys
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
